@@ -86,7 +86,7 @@ The scope of this audit includes the entire security program at Botium Toys, cov
 ---
 
 ## Full Report
-[View the completed security audit checklist](https://github.com/cyberzigy/cybersecurity-portfolio/blob/ee01a3b70c8a215ef76bd977094108119f63b519/Copy%20of%20Controls%20and%20CopyofControlsand%20complianc0checklist.pdf.pdf%20compliance0checklist.pdf.pdf)
+[View the completed security audit checklist] (https://github.com/cyberzigy/cybersecurity-portfolio/blob/ee01a3b70c8a215ef76bd977094108119f63b519/Copy%20of%20Controls%20and%20CopyofControlsand%20complianc0checklist.pdf.pdf%20compliance0checklist.pdf.pdf)
 
 ---
 
